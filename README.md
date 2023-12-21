@@ -12,9 +12,13 @@ Before running the app, update the `.env` file with your TMDB API key:
 TMDB_API_KEY=your_api_key_here
 ```
 ## Installation
-# $ npm install
 
-## Running the App
+```bash
+$ npm install
+```
+## Running the app
+
+```bash
 # development
 $ npm run start
 
@@ -23,11 +27,11 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+```
 
-## Swagger UI
-Access the Swagger UI for the API documentation at `http://localhost:[PORT]/api`.
+## Test
 
-## Testing
+```bash
 # unit tests
 $ npm run test
 
@@ -36,7 +40,10 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+```
 
+## Swagger UI
+Access the Swagger UI for the API documentation at `http://localhost:[PORT]/api`.
 
 ## License
 
