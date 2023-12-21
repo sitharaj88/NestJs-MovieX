@@ -1,4 +1,10 @@
-# NestJs-MovieX
+# 
+
+<h2 align="center">NestJs MovieX - TMDB API</h2>
+<p align="center">
+  <img src="images\moviex.png" alt="Cinematic Integration of NestJS with TMDB API" width="400" height="400">
+</p>
+
 
 ## About
 This project is a NestJS implementation integrating the TMDB Movie API. It provides a robust framework for interacting with movie data, leveraging the powerful features of NestJS.
