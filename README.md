@@ -2,7 +2,7 @@
 
 <h2 align="center">NestJs MovieX - TMDB API</h2>
 <p align="center">
-  <img src="images\moviex.png" alt="Cinematic Integration of NestJS with TMDB API" width="400" height="400">
+  <img src="images\moviex.png" alt="Cinematic Integration of NestJS with TMDB API" width="600" height="600">
 </p>
 
 
